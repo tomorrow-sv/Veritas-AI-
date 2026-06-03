@@ -4,3 +4,7 @@ faiss-cpu
 numpy
 openai
 python-dotenv
+
+
+# pip install -r requirements.txt - install dependencies 
+#  python -m pip install -r requirements.txt - if pip doesn't work 
