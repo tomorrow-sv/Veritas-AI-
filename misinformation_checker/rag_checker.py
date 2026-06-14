@@ -44,7 +44,6 @@ def classify_claim(claim):
     else:
         classification = "False or Not Enough Evidence"
 
-<<<<<<< HEAD
     return {
         "claim": claim,
         "classification": classification,
@@ -73,7 +72,4 @@ if __name__ == "__main__":
         print(f"Abstract ID: {item['id']}")
         print(f"Similarity Score: {round(item['similarity_score'], 3)}")
         print(item["text"][:700] + "...")
-=======
-    return classification, evidence
->>>>>>> 090fbbf036435213cbf49ae676326144e4aa9268
 
