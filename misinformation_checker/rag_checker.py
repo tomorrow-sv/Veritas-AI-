@@ -46,3 +46,4 @@ def classify_article(article_text):
         classification = "False or Not Enough Evidence"
 
     return classification, evidence
+
