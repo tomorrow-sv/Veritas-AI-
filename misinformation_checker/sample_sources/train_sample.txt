@@ -1,0 +1,500 @@
+###24491034
+BACKGROUND	The emergence of HIV as a chronic condition means that people living with HIV are required to take more responsibility for the self-management of their condition , including making physical , emotional and social adjustments .
+BACKGROUND	This paper describes the design and evaluation of Positive Outlook , an online program aiming to enhance the self-management skills of gay men living with HIV .
+METHODS	This study is designed as a randomised controlled trial in which men living with HIV in Australia will be assigned to either an intervention group or usual care control group .
+METHODS	The intervention group will participate in the online group program ` Positive Outlook ' .
+METHODS	The program is based on self-efficacy theory and uses a self-management approach to enhance skills , confidence and abilities to manage the psychosocial issues associated with HIV in daily life .
+METHODS	Participants will access the program for a minimum of 90 minutes per week over seven weeks .
+METHODS	Primary outcomes are domain specific self-efficacy , HIV related quality of life , and outcomes of health education .
+METHODS	Secondary outcomes include : depression , anxiety and stress ; general health and quality of life ; adjustment to HIV ; and social support .
+METHODS	Data collection will take place at baseline , completion of the intervention ( or eight weeks post randomisation ) and at 12 week follow-up .
+CONCLUSIONS	Results of the Positive Outlook study will provide information regarding the effectiveness of online group programs improving health related outcomes for men living with HIV .
+BACKGROUND	ACTRN12612000642886 .
+
+###20497432
+BACKGROUND	The aim of this study was to evaluate the efficacy , safety and complications of orbital steroid injection versus oral steroid therapy in the management of thyroid-related ophthalmopathy .
+METHODS	A total of 29 patients suffering from thyroid ophthalmopathy were included in this study .
+METHODS	Patients were randomized into two groups : group I included 15 patients treated with oral prednisolone and group II included 14 patients treated with peribulbar triamcinolone orbital injection .
+METHODS	Only 12 patients in both groups ( 16 female and 8 male ) completed the study .
+RESULTS	Both groups showed improvement in symptoms and in clinical evidence of inflammation with improvement of eye movement and proptosis in most cases .
+RESULTS	Mean exophthalmometry value before treatment was 22.6 1.98 mm that decreased to 18.6 0.996 mm in group I , compared with 23 1.86 mm that decreased to 19.08 1.16 mm in group II .
+RESULTS	Mean initial clinical activity score was 4.75 1.2 and 5 1.3 for group I and group II before treatment , respectively , which dropped to 0.83 1.2 and 0.83 1.02 , 6 months after treatment , respectively .
+RESULTS	There was no change in the best-corrected visual acuity in both groups .
+RESULTS	There was an increase in body weight , blood sugar , blood pressure and gastritis in group I in 66.7 % , 33.3 % , 50 % and 75 % , respectively , compared with 0 % , 0 % , 8.3 % and 8.3 % in group II .
+RESULTS	No adverse local side effects were observed in group II .
+CONCLUSIONS	Orbital steroid injection for thyroid-related ophthalmopathy is effective and safe .
+CONCLUSIONS	It eliminates the adverse reactions associated with oral corticosteroid use .
+
+###19062107
+OBJECTIVE	The aim of this prospective randomized study was to examine whether active counseling and more liberal oral fluid intake decrease postoperative pain , nausea and vomiting in pediatric ambulatory tonsillectomy .
+METHODS	Families , whose child was admitted for ambulatory tonsillectomy or adenotonsillectomy , were randomly assigned to the study groups ( n = 116 ; 58 families in each group ) .
+METHODS	The intervention group received the fasting instructions with face-to-face counseling for the child 's active preoperative nutrition , and the control group the fasting instructions according to the hospital 's standard procedure .
+METHODS	The level of postoperative pain and nausea was scored in the postanesthesia care unit ( PACU ) during the first postoperative hour , as well as at 2 , 4 , 8 and 24h postoperatively .
+METHODS	The first scoring in PACU was performed by the attending nurse with a 0-10 scale .
+METHODS	The rest of the estimations were made independently and simultaneously by the children using a VAS scale , and by the parents using a 0-10 scale .
+RESULTS	The children in the control group were in more pain in the PACU than the children in the intervention group , and the difference between the groups was statistically significant ( p = 0.0002 ) .
+RESULTS	All pain scores , according to the children and the parents , increased after the surgery .
+RESULTS	In both groups the highest score values were found at home 8h after surgery , and no significant difference was found between the study groups .
+RESULTS	On the first postoperative morning , the children in the control group were in pain ( p = 0.047 ) .
+RESULTS	The children did not have significant nausea in the PACU , but the nausea increased postoperatively .
+RESULTS	Four hours after surgery the children were most nauseous according to all estimations ( 60 % , n = 116 ) .
+RESULTS	More than half of the children vomited and most vomited clotted blood .
+RESULTS	Nausea and vomiting decreased during the evening of the surgery , but six children vomited the next morning , four of them vomited blood .
+RESULTS	The incidence and intensity of postoperative nausea and vomiting between the intervention and control groups were not statistically significant .
+RESULTS	However , preoperative nutritional counseling and more liberal per oral fluid intake appeared to have a positive effect on the children 's well-being and helped them to better tolerate postoperative nausea and vomiting .
+CONCLUSIONS	The preoperative counseling about active preoperative nutrition significantly reduces the child 's pain during the first posttonsillectomy hours and might prepare the child to better tolerate the stress of potential postoperative nausea and vomiting .
+
+###19769482
+OBJECTIVE	To explore the effects of GengNianLe ( GNL , also called perimenopausal depression relieving formula ) , a defined formula of Chinese medicinal herbs in relieving perimenopausal depression in Chinese women .
+METHODS	Between September 2004 and April 2008 , 47 Chinese women were randomized into a GNL group ( n = 21 ) and a control group which received tibolone ( n = 26 ) using a randomization chart .
+METHODS	Depression was rated with the 24-item Hamilton Depression Scale ( HAMD ) .
+METHODS	The serum levels of follicle stimulating hormone ( FSH ) , luteinizing hormone ( LH ) , and estradiol ( E ( 2 ) ) were detected before and after the treatment .
+RESULTS	After 12 weeks of treatment , HAMD scores in both groups decreased significantly ( p < 0.05 ) with no significant difference between the groups ( p > 0.05 ) .
+RESULTS	The levels of FSH decreased significantly and the level of E ( 2 ) increased significantly in both groups , and they changed more in the control group .
+RESULTS	No side-effect of treatment was reported in either group during treatment .
+CONCLUSIONS	The Chinese medicinal formula GNL showed promise in relieving perimenopausal depression and merits further study .
+
+###26077436
+BACKGROUND	Topical formulations of nonsteroidal anti-inflammatory drugs ( NSAIDs ) are generally considered to be safer alternatives to oral NSAIDs due to lower systemic absorption .
+BACKGROUND	We conducted randomized , crossover studies that compared the pharmacokinetics ( PK ) , bioequivalence and safety of topical diclofenac sodium 2 % twice daily ( BID ) , diclofenac sodium 1.5 % four times daily ( QID ) and oral diclofenac sodium in healthy subjects .
+METHODS	The results of three bioequivalence studies are reviewed .
+METHODS	Healthy adult subjects ( n = 76 ) applied topical diclofenac sodium 2 % solution ( 40.4 mg/2 mL ) BID ; or 1.5 % solution ( 19.3 mg/40 drops ) QID to each knee for 7.5 consecutive days separated by a washout period .
+METHODS	Subjects ( n = 22 ) in one study also received oral diclofenac sodium 75 mg BID for 7.5 days .
+METHODS	Plasma diclofenac concentrations were determined from serial blood samples collected on Days 1 and 8 ( steady state ) , and diclofenac PK parameters were estimated by noncompartmental methods .
+RESULTS	The studies demonstrated comparable bioequivalence between the 2 % and 1.5 % topical solutions as well as lower systemic exposure compared to oral dosing ( approximately 93 % less ) .
+RESULTS	Daily systemic exposure was comparable between the two formulations with only a 12 % difference in the AUCss ( 0-24 ) ( p = 0.140 ) .
+RESULTS	Furthermore , both topical solutions demonstrated delayed elimination with a t ( 1/2 ) of 4 - to 6-fold longer , as compared to oral diclofenac .
+RESULTS	The 2 % solution provided more consistent dosing relative to the 1.5 % solution when comparing AUCss ( 0-24 ) and Cmaxss across studies .
+RESULTS	Mild application site reactions were the most common treatment-emergent adverse event reported with topical diclofenac .
+CONCLUSIONS	The steady-state PK profile of topical diclofenac 2 % solution administered BID is similar to that of the 1.5 % solution administered QID .
+CONCLUSIONS	Systemic exposure to diclofenac is substantially lower after topical application as compared to oral administration .
+CONCLUSIONS	( Study 2 was registered with ClinicalTrials.gov ; NCT01202799 ; https://clinicaltrials.gov/ct2/results?term=01202799&Search=Search ) .
+
+###20656965
+BACKGROUND	No long-term studies have been reported on the effect of training programs on driving after stroke .
+OBJECTIVE	The authors ' primary aim was to determine the effect of simulator versus cognitive rehabilitation therapy on fitness-to-drive at 5 years poststroke .
+OBJECTIVE	A second aim was to investigate differences in clinical characteristics between stroke survivors who resumed and stopped driving .
+METHODS	In a previously reported randomized controlled trial , 83 stroke survivors received 15 hours of simulator training ( n = 42 ) or cognitive therapy ( n = 41 ) .
+METHODS	In this 5-year follow-up study , 61 participants were reassessed .
+METHODS	Fitness-to-drive decisions were obtained from medical , visual , neuropsychological , and on-road tests ; 44 participants ( simulator group , n = 21 ; cognitive group , n = 23 ) completed all assessments .
+METHODS	The primary outcome measures were fitness-to-drive decision and current driving status .
+RESULTS	The authors found that 5 years after stroke , 18 of 30 participants ( 60 % ) in the simulator group were considered fit to drive , compared with 15 of 31 ( 48 % ) in the cognitive group ( P = .36 ) ; 34 of 61 ( 56 % ) participants were driving .
+RESULTS	Current drivers were younger ( P = .04 ) , had higher Barthel scores ( P = .008 ) , had less comorbidity ( P = .01 ) , and were less severely depressed ( P = .02 ) than those who gave up driving .
+CONCLUSIONS	The advantage of simulator-based driving training over cognitive rehabilitation therapy , evident at 6 months poststroke , had faded 5 years later .
+CONCLUSIONS	Poststroke drivers were younger and less severely affected and depressed than nondrivers .
+
+###17889242
+BACKGROUND	The potential of insecticide-treated bednets ( ITNs ) to contribute to child survival has been well documented in randomised controlled trials .
+BACKGROUND	ITN coverage has increased rapidly in Kenya from 7 % in 2004 to 67 % in 2006 .
+BACKGROUND	We aimed to assess the extent to which this investment has led to improvements in child survival .
+METHODS	A dynamic cohort of about 3500 children aged 1-59 months were enumerated three times at yearly intervals in 72 rural clusters located in four districts of Kenya .
+METHODS	The effect of ITN use on mortality was assessed with Poisson regression to take account of potential effect-modifying and confounding covariates .
+RESULTS	100 children died over 2 years .
+RESULTS	Overall mortality rates were much the same in the first and second years of the study ( 14.5 per 1000 person-years in the first year and 15.4 per 1000 person-years in the second ) .
+RESULTS	After adjustment for age , time period , and a number of other possible confounding variables , ITN use was associated with a 44 % reduction in mortality ( mortality rate ratio 0.56 , 95 % CI 0.33-0 .96 ; p = 0.04 ) .
+RESULTS	This level of protection corresponds to about seven deaths averted for every 1000 ITNs distributed .
+CONCLUSIONS	A combined approach of social marketing followed by mass free distribution of ITNs translated into child survival effects that are comparable with those seen in previous randomised controlled trials .
+
+###23615091
+BACKGROUND	Cortical stimulation mapping ( CSM ) commonly uses visual naming to determine resection margins in the dominant hemisphere of patients with epilepsy .
+BACKGROUND	Visual naming alone may not identify all language sites in resection-prone areas , prompting additional tasks for comprehensive language mapping .
+OBJECTIVE	To demonstrate word-finding distinctions between visual , auditory , and reading modalities during CSM and the percentage of modality-specific language sites within dominant hemisphere subregions .
+METHODS	Twenty-eight patients with epilepsy underwent CSM by the use of visual , auditory , and sentence-completion tasks .
+METHODS	Hierarchical logistic regression analyzed errors to identify language sites and provide modality-specific percentages within subregions .
+RESULTS	The percentage of sites classified as language sites based on auditory naming was twice as high in anterior temporal regions compared with visual naming , marginally higher in posterior temporal areas , and comparable in parietal regions .
+RESULTS	Sentence completion was comparable to visual and auditory naming in parietal regions and lower in most temporal areas .
+RESULTS	Of 470 sites tested with both visual and auditory naming , 95 sites were distinctly auditory , whereas 48 sites were distinctly visual .
+RESULTS	The remaining sites overlapped .
+CONCLUSIONS	Distinct cortical areas were found for distinct input modalities , with language sites in anterior tip regions found most often by using auditory naming .
+CONCLUSIONS	The vulnerability of anterior temporal tip regions to resection in this population and distinct sites for each modality suggest that a multimodality approach may be needed to spare crucial language sites , if sparing those sites can be shown to significantly reduce the rate of postoperative language deficits without sacrificing seizure control .
+
+###8532270
+OBJECTIVE	To determine if suppressive acyclovir therapy given to term gravidas experiencing a first episode of genital herpes simplex virus ( HSV ) - infection during pregnancy decreases the need for cesarean delivery for that indication .
+METHODS	Forty-six pregnant women with first episodes of genital herpes during pregnancy were randomly assigned to receive oral acyclovir 400 mg or placebo , three times per day , from 36 weeks ' gestation until delivery as part of a prospective , double-blind trial .
+METHODS	Herpes simplex virus cultures were obtained when patients presented for delivery .
+METHODS	Vaginal delivery was permitted if no clinical recurrence was present ; otherwise , a cesarean was performed .
+METHODS	Neonatal HSV cultures were obtained and infants were followed-up clinically .
+RESULTS	None of the 21 patients treated with acyclovir and nine of 25 ( 36 % ) treated with placebo had clinical evidence of recurrent genital herpes at delivery ( odds ratio [ OR ] 0.04 , 95 % confidence interval [ CI ] 0.002-0 .745 ; P = .002 ) .
+RESULTS	No woman treated with acyclovir had a cesarean for herpes , compared with nine of 25 ( 36 % ) of those treated with placebo ( OR 0.04 , CI 0.002-0 .745 ; P = .002 ) .
+RESULTS	No patient in either treatment group experienced asymptomatic genital viral shedding at delivery .
+RESULTS	No neonate had evidence of herpes infection or adverse effects from acyclovir .
+CONCLUSIONS	Suppressive acyclovir therapy reduced the need for cesarean for recurrent herpes in women whose first clinical episode of genital HSV occurred during pregnancy .
+CONCLUSIONS	Suppressive acyclovir treatment did not increase asymptomatic viral shedding and was not harmful to the term fetus .
+
+###1458072
+OBJECTIVE	To compare the tolerance , efficacy , and pharmacokinetics of amphotericin deoxycholate ( Fungizone ) prepared in a parenteral fat emulsion ( Intralipid 20 % ) or glucose in HIV patients with candidiasis .
+METHODS	Non-blind randomised controlled trial .
+METHODS	University hospital ; tertiary clinical care .
+METHODS	22 HIV positive patients with oral candidiasis .
+METHODS	Amphotericin 1 mg/kg/day given on four consecutive days as a one hour infusion dissolved in either 5 % glucose ( amphotericin-glucose ) or parenteral fat emulsion at a final concentration of 2 g/l fat emulsion ( amphotericin-fat emulsion ) .
+METHODS	Clinical tolerance ( fever , chills , sweats , nausea , arterial pressure , and pulse rate ) ; biological tolerance ( serum creatinine , electrolyte , and magnesium values ) ; clinical score of candidiasis ; and serum concentrations of amphotericin .
+RESULTS	11 patients were enrolled in each group .
+RESULTS	All the amphotericin-fat emulsion infusions were given without serious problem whereas four amphotericin-glucose infusions were stopped because of renal impairment ( n = 3 ) or severe chills ( n = 2 ) , or both .
+RESULTS	For patients completing the amphotericin-glucose treatment creatine concentration increased by 42 mumol/l ; four of seven patients had at least one creatinine value > or = 133 mumol/l versus one of 11 receiving amphotericin-fat emulsion .
+RESULTS	Magnesium concentration fell significantly with amphotericin-glucose but not with amphotericin-fat emulsion .
+RESULTS	Clinical side effects were noted in 36/38 infusions with amphotericin-glucose but 10/44 with amphotericin-fat emulsion .
+RESULTS	Oral candidiasis score was reduced similarly in both groups .
+RESULTS	Serum amphotericin concentrations were significantly lower and the volume of distribution of the drug higher after infusion of amphotericin-fat emulsion than after amphotericin-glucose .
+CONCLUSIONS	Clinical and renal toxicity of amphotericin are reduced when the drug is prepared in fat emulsion .
+CONCLUSIONS	Preparation is simple and cost effective .
+CONCLUSIONS	Its efficacy is similar to that of conventional amphotericin .
+
+###24135831
+OBJECTIVE	Rate control of atrial fibrillation ( AF ) has become a main treatment modality , but we need more knowledge regarding the different drugs used for this purpose .
+OBJECTIVE	In this study , we aimed to compare the effect of four common rate-reducing drugs on exercise capacity and levels of N-terminal pro-B-type natriuretic peptide ( NT-proBNP ) in patients with permanent AF .
+RESULTS	We included 60 patients ( mean age 71 9 years , 18 women ) with permanent AF and normal left ventricular function in a randomized , cross-over , investigator-blind study .
+RESULTS	Diltiazem 360 mg , verapamil 240 mg , metoprolol 100 mg , and carvedilol 25 mg were administered o.d. for 3 weeks .
+RESULTS	At baseline and on the last day of each treatment period , the patients underwent a maximal cardiopulmonary exercise test and blood samples were obtained at rest and at peak exercise .
+RESULTS	The exercise capacity ( peak VO2 ) was significantly lower during treatment with metoprolol and carvedilol compared with baseline ( no treatment ) or treatment with diltiazem and verapamil ( P < 0.001 for all ) .
+RESULTS	Compared with baseline , treatment with diltiazem and verapamil significantly reduced the NT-proBNP levels both at rest and at peak exercise , whereas treatment with metoprolol and carvedilol increased the levels ( P < 0.05 for all ) .
+CONCLUSIONS	Rate-reducing treatment with diltiazem or verapamil preserved exercise capacity and reduced levels of NT-proBNP compared with baseline , whereas treatment with metoprolol or carvedilol reduced the exercise capacity and increased levels of NT-proBNP .
+
+###11467142
+BACKGROUND	Post-exposure prophylaxis for rabies with cell culture vaccines by the conventional intramuscular regimen is very expensive .
+BACKGROUND	The World Health Organization has advocated two cost-effective intradermal regimens with cell culture vaccines for use in developing countries .
+BACKGROUND	We evaluated these two regimens -- the 2-site and the 8-site regimens -- in terms of immunogenicity , safety and tolerance in people with category I exposure to rabies .
+METHODS	Eighty-two subjects who had mild category I exposure to rabies were immunized using a purified chick embryo cell vaccine .
+METHODS	The first regimen given to 43 subjects , consisted of intradermal administration of 0.2 ml of vaccine at 2 sites on days 0 , 3 and 7 and at one site on days 28 and 90 .
+METHODS	The second regimen , given to 39 subjects , consisted of intradermal administration of 0.1 ml of vaccine at 8 sites on day 0 , at 4 sites on day 7 and at one site on days 28 and 90 .
+METHODS	The mouse neutralization test was used to estimate titres of rabies neutralizing antibody in these subjects on different days after vaccination .
+METHODS	The subjects were followed up for 1 year .
+RESULTS	Both regimens produced adequate neutralizing antibody titres from day 14 onwards , though the second regimen produced a more rapid antibody response and significantly higher titres ( p < 0.001 ) on all days tested .
+RESULTS	There were minimal side-effects and both regimens were well tolerated .
+CONCLUSIONS	Both the 2-site and 8-site intradermal regimens with purified chick embryo cell vaccine produce adequate levels of neutralizing antibodies but the 8-site regimen appears to be more immunogenic .
+CONCLUSIONS	The feasibility of using these cost-effective regimens in routine practice needs to be further evaluated under the field conditions prevalent in India .
+
+###21766893
+BACKGROUND	Discrete-choice experiments are based on the premise that any good or service can be described by its characteristics ( or attributes ) , and the extent to which an individual values a good or service depends on the levels of these characteristics .
+BACKGROUND	Little is known about patient preferences for treatment of chronic musculoskeletal pain such as Achilles tendinopathy .
+METHODS	A discrete-choice experiment was conducted in 58 adults with a history of Achilles tendon pain at the conclusion of a three-arm randomized clinical trial .
+METHODS	Participants were asked to complete a questionnaire consisting of ten hypothetical treatment scenarios and some sociodemographic questions .
+METHODS	For each scenario , participants were asked to choose which option they would prefer if seeking treatment for their painful Achilles tendon .
+METHODS	A mixed logit model was estimated to quantify subject preferences and marginal willingness to pay for the treatment attributes .
+RESULTS	A response rate of 62 % was achieved .
+RESULTS	A significant positive impact on utility was observed for chance of treatment success .
+RESULTS	A significant negative impact on utility was observed for cost , weeks before exercise can be completed free of pain , chance of side effects ( p = 0.06 ) , and injections as a stand-alone treatment .
+RESULTS	Respondents were willing to pay Australian dollars ( $ A ) 238 ( 95 % CI -312 , 788 ) for a 10 % increase in the chance of treatment success .
+CONCLUSIONS	Study participants with Achilles tendon pain who had either participated or expressed an interest in participating in a randomized trial prefer a treatment that costs less , has a greater chance of success , has a shorter duration before being able to exercise free of pain , and has less likelihood of side effects .
+CONCLUSIONS	On average , participants preferred exercises over injections as a stand-alone treatment .
+CONCLUSIONS	Further research is required to confirm the findings in patients outside of the trial setting .
+CONCLUSIONS	Nevertheless , this study contributes to an area that is deficient in research by identifying priorities and marginal willingness to pay for attributes related to Achilles tendinopathy .
+
+###24816809
+OBJECTIVE	Whether prasugrel plus bivalirudin is a superior strategy to unfractionated heparin plus clopidogrel in patients with ST-segment elevation myocardial infarction ( STEMI ) undergoing primary percutaneous coronary intervention ( PCI ) has never been assessed in specifically designed randomized trials .
+RESULTS	The Bavarian Reperfusion Alternatives Evaluation ( BRAVE ) 4 study is an investigator-initiated , randomized , open-label , multicentre trial , designed to test the hypothesis that in STEMI patients with planned primary PCI a strategy based on prasugrel plus bivalirudin is superior to a strategy based on clopidogrel plus heparin in terms of net clinical outcome .
+RESULTS	Owing to slow recruitment , the trial was stopped prematurely after enrolment of 548 of 1240 planned patients .
+RESULTS	At 30 days , the primary composite endpoint of death , myocardial infarction , unplanned revascularization of the infarct related artery , stent thrombosis , stroke , or bleeding was observed in 42 patients ( 15.6 % ) randomized to prasugrel plus bivalirudin and 40 patients ( 14.5 % ) randomized to clopidogrel plus heparin [ relative risk , 1.09 ; one-sided 97.5 % confidence interval ( CI ) 0-1 .79 , P = 0.680 ] .
+RESULTS	The composite ischaemic endpoint of death , myocardial infarction , unplanned revascularization of the infarct-related artery , stent thrombosis , or stroke occurred in 13 patients ( 4.8 % ) in the prasugrel plus bivalirudin group and 15 patients ( 5.5 % ) in the clopidogrel plus heparin group ( relative risk , 0.89 ; 95 % CI 0.40-1 .96 , P = 0.894 ) .
+RESULTS	Bleeding according to the HORIZONS-AMI definition was observed in 38 patients ( 14.1 % ) in the prasugrel plus bivalirudin group and 33 patients ( 12.0 % ) in the clopidogrel plus heparin group ( relative risk , 1.18 ; 95 % CI 0.74-1 .88 , P = 0.543 ) .
+RESULTS	Results were consistent across various subgroups of patients .
+CONCLUSIONS	In this randomized trial of STEMI patients , we were unable to demonstrate significant differences in net clinical outcome between prasugrel plus bivalirudin and clopidogrel plus heparin .
+CONCLUSIONS	Neither the composite of ischaemic complications nor bleeding were favourably affected by prasugrel plus bivalirudin compared with a regimen of clopidogrel plus unfractionated heparin .
+CONCLUSIONS	However , the results must be interpreted in view of the premature termination of the trial .
+BACKGROUND	Unique identifier NCT00976092 ( www.clinicaltrials.gov ) .
+
+###12551795
+OBJECTIVE	To evaluate the long-term recurrence rates and complication of different techniques of cervical ablation .
+METHODS	A randomized trial of three techniques of conization ( cold knife , laser , and loop electrosurgical excisional procedure ( LEEP ) ) for cervical intraepithelial neoplasia ( CIN ) in which 110 patients had been recruited .
+RESULTS	Eighty-six patients were followed-up for more than 3 years .
+RESULTS	Of these 28 had been treated with the cold knife , 29 with LEEP and 29 by laser .
+RESULTS	Five recurrences were observed , one in the cold knife group , two in the LEEP group and two in the laser group ( P = NS ) .
+RESULTS	The only observed complication was cervical stenosis : zero cases in the laser group , one case in the LEEP group and four cases in the cold knife group ( laser versus cold knife : P = 0.03 ; LEEP versus cold knife : P = 0.06 ) .
+RESULTS	Fifty pregnancies were observed in 39 patients .
+RESULTS	First and second trimester outcomes of pregnancy were without complications .
+RESULTS	One patient treated with the LEEP presented with a premature rupture of membranes and premature labor at 36 weeks .
+RESULTS	A total of nine cesarean sections were performed with two cases for cervical dystocia .
+CONCLUSIONS	There is no major difference in obstetrical outcome between the three techniques .
+
+###15897479
+OBJECTIVE	To determine whether macronutrient composition of a hypocaloric diet can enhance its effectiveness and whether insulin sensitivity ( Si ) affects the response to hypocaloric diets .
+METHODS	Obese nondiabetic insulin-sensitive ( fasting insulin < 10 microU/mL ; n = 12 ) and obese nondiabetic insulin-resistant ( fasting insulin > 15 microU/mL ; n = 9 ) women ( 23 to 53 years old ) were randomized to either a high carbohydrate ( CHO ) ( HC ) / low fat ( LF ) ( 60 % CHO , 20 % fat ) or low CHO ( LC ) / high fat ( HF ) ( 40 % CHO , 40 % fat ) hypocaloric diet .
+METHODS	Primary outcome measures after a 16-week dietary intervention were : changes in body weight ( BW ) , Si , resting metabolic rate , and fasting lipids .
+RESULTS	Insulin-sensitive women on the HC/LF diet lost 13.5 + / - 1.2 % ( p < 0.001 ) of their initial BW , whereas those on the LC/HF diet lost 6.8 + / - 1.2 % ( p < 0.001 ; p < 0.002 between the groups ) .
+RESULTS	In contrast , among the insulin-resistant women , those on the LC/HF diet lost 13.4 + / - 1.3 % ( p < 0.001 ) of their initial BW as compared with 8.5 + / - 1.4 % ( p < 0.001 ) lost by those on the HC/LF diet ( p < 0.04 between two groups ) .
+RESULTS	These differences could not be explained by changes in resting metabolic rate , activity , or intake .
+RESULTS	Overall , changes in Si were associated with the degree of weight loss ( r = -0.57 , p < 0.05 ) .
+CONCLUSIONS	The state of Si determines the effectiveness of macronutrient composition of hypocaloric diets in obese women .
+CONCLUSIONS	For maximal benefit , the macronutrient composition of a hypocaloric diet may need to be adjusted to correspond to the state of Si .
+
+###8182401
+OBJECTIVE	To compare the effects of dry needling of myofascial trigger points in the neck region to metoprolol in migraine prophylaxis .
+METHODS	Randomized , group comparative study .
+METHODS	patients , investigator and statistician were blinded as to treatment , the therapist was blinded as to results .
+METHODS	Outpatient pain clinic in the northern Copenhagen area .
+METHODS	Patients were referred by general practitioners or respondents to newspaper advertisements .
+METHODS	Included were patients with a history of migraine with or without aura for at least 2 years .
+METHODS	Excluded were persons with contraindications against treatment with beta blockers , chronic pain syndromes , pregnancy or previous experience with acupuncture or beta-blocking agents .
+METHODS	A total of 85 patients were included ; 77 completed the study .
+METHODS	After a 4-week run-in period , patients were allocated to a 17-week regimen either with acupuncture and placebo tablets or to placebo stimulation and metoprolol 100 mg daily .
+RESULTS	Both groups exhibited significant reduction in attack frequency ( P < 0.01 ) .
+RESULTS	No difference was found between the groups regarding frequency ( P > 0.20 ) or duration ( P > 0.10 ) of attacks , whereas we found a significant difference in global rating of attacks in favour of metoprolol ( P < 0.05 ) .
+CONCLUSIONS	Trigger point inactivation by dry needling is a valuable supplement to the list of migraine prophylactic tools , being equipotent to metoprolol in the influence on frequency and duration ( but not severity ) of attacks , and superior in terms of negative side-effects .
+
+###17217318
+OBJECTIVE	This study aimed to evaluate the effects of monophasic estrogen-progestogen therapy on the sexuality and climacteric symptoms of postmenopausal women .
+METHODS	A prospective , randomised , double-blind , crossover , placebo-controlled , single-centre study was carried out over a total of 12 consecutive months in 40 postmenopausal women with an intact uterus who had no contraindications to hormone therapy .
+METHODS	Patients received 17beta-estradiol 2mg in combination with norethisterone acetate 1mg ( Cliane ) daily for 6 months or one placebo tablet daily for 6 months .
+METHODS	The tablets were identical in appearance .
+METHODS	After 6 months , the groups were crossed over and the patients were followed up for another 6 months .
+METHODS	The groups were homogenous with respect to age , height , bodyweight , body mass index and race .
+METHODS	For the statistical analysis , the group receiving hormone therapy was referred to as group A and the placebo group was designated group B , irrespective of the placebo/hormone therapy sequence .
+RESULTS	In group A there were fewer hot flashes ( F = 22.85 , p < 0.01 ) and an improvement in sexual interest ( F = 5.55 , p < 0.05 ) .
+RESULTS	The sequence in which the medication was received resulted in a statistically significant difference with respect to dyspareunia ( F = 9.65 , p < 0.01 ) and satisfaction with the duration of penetration ( F = 6.58 , p < 0.05 ) .
+RESULTS	In the intrapatient analysis of variation with respect to orgasmic capability and the presence of dialogue with partner regarding the couple 's sexual life , whether the placebo was taken prior to or following hormone therapy was significant ( F = 17.12 , p < 0.001 and F = 7.10 , p < 0.05 , respectively ) .
+CONCLUSIONS	Monophasic estrogen-progestogen therapy has a beneficial effect on sexuality and on hot flashes in postmenopausal women .
+
+###19852282
+OBJECTIVE	To investigate the clinical effect of the Chinese medicinal preparation Shengling Capsule on patients with oligoasthenospermia .
+METHODS	A total of 270 male patients with infertility induced by oligoasthenospermia were equally divided into a treatment and a control group , the former medicated with Shengling Capsule at the dose of 1.6 g tid , and the latter given Vit E at 50 mg tid , both for a course of 12 weeks .
+METHODS	Then we analyzed the changes in the patients ` seminal parameters and the pregnancy of their wives .
+RESULTS	After 12 weeks of medication , both the seminal parameters of the patients and pregnancy of their wives were remarkably improved , with extremely significant differences from pre-treatment and the control ( P < 0.01 ) .
+CONCLUSIONS	Shengjing Capsule can improve sperm motility and vitality as well as sperm count .
+CONCLUSIONS	With few adverse effects , it can be used as a safe and effective therapeutic for male infertility induced by oligoasthenospermia .
+
+###9072052
+OBJECTIVE	To assess the usefulness of HELISAL in the diagnosis of Helicobacter pylori infection by comparing it with ELISA , JATROX and histopathologic findings .
+METHODS	Randomized prospective study .
+METHODS	Sixty-one patients , thirty-three males and twenty-eight females , 18-73 years old , submitted to esophagogastroduodenoscopy .
+RESULTS	The sensitivity of HELISAL when compared to ELISA test was 60.8 % , the specificity 73.3 % , the positive predictive value 87.5 % , the negative predictive value 37.9 % , and the kappa index 0.26 .
+RESULTS	When compared to histopathologic test : sensitivity 60.9 % , specificity 65 % , positive predictive value 78.1 % , negative predictive value 44.7 % , kappa 0.28 .
+RESULTS	When compared to JATROX , sensitivity 57.7 % , specificity 62.5 % , positive predictive value 81.2 % , negative predictive value 34.4 % , kappa 0.21 .
+CONCLUSIONS	The sensitivity of HELISAL test is lower than that of other compared tests , and the negative predictive value is very low .
+CONCLUSIONS	The specificity and the positive predictive value are higher than the sensitivity .
+CONCLUSIONS	The kappa index shows a very low concordance .
+
+###10510951
+OBJECTIVE	To evaluate the effects of simvastatin on serum lipids and insulin sensitivity in Type 2 diabetic patients with hypercholesterolaemia .
+METHODS	A double-blind , randomized , placebo-controlled and two-period crossover study .
+METHODS	After a 2-month run-in , 19 eligible Type 2 diabetic patients with hypercholesterolaemia were randomized to receive either simvastatin or placebo for 3 months , exchanging their treatment thereafter for another 3 months .
+METHODS	Blood samples were taken in month 0 and at monthly intervals to measure serum lipids and indices of glycaemic control .
+METHODS	An euglycaemic insulin clamp was performed in months 0 , 3 and 6 to assess change of insulin sensitivity .
+METHODS	The amount of glucose infused during 90-120 min of the clamp ( M ) , and the mean values of serum insulin during 90-120 min ( I ) were measured .
+METHODS	The M and M/I ratio were used to represent the in vivo insulin sensitivity of the subject .
+RESULTS	Simvastatin significantly reduced serum total cholesterol ( TC ) by 23 + / -18 % and low density lipoprotein-cholesterol ( LDL-C ) by 30 + / -26 % .
+RESULTS	It did not alter glycaemic control .
+RESULTS	The M-values and M/I ratios were similar in both groups in each period and no drug effect on insulin sensitivity could be identified .
+CONCLUSIONS	Simvastatin significantly reduced the serum TC and LDL-C levels without alteration of insulin sensitivity in Type 2 diabetic patients with hypercholesterolaemia .
+
+###10871561
+BACKGROUND	Premenopausal African American women have a 2-3 times greater incidence of coronary heart disease ( CHD ) than do white women .
+BACKGROUND	The plasma lipid responsiveness to dietary fat , which may be associated with CHD , has not been adequately studied in premenopausal African American or white women .
+OBJECTIVE	The objective of our study was to compare the effect of diet on fasting plasma lipids and lipoproteins and postprandial lipemia in premenopausal African American and white women .
+METHODS	Thirteen African American and 9 white healthy premenopausal women were fed a low-fat , high-fiber diet and a high-fat , low-fiber diet for 4 wk each in a randomized crossover design .
+METHODS	Fasting plasma lipid and lipoprotein concentrations and the 24-h plasma triacylglycerol response to a standard fatty test meal were measured at the end of each dietary period .
+RESULTS	Plasma total and LDL-cholesterol concentrations were higher after the high-fat , low-fiber diet in both white and African American women ( P < 0.0001 ) .
+RESULTS	The 24-h area under the plasma triacylglycerol curve after the test meal was lower after the low-fat diet than after the high-fat diet ( P < 0.04 ) .
+CONCLUSIONS	African American and white women had lower fasting plasma total and LDL-cholesterol concentrations and less postprandial lipemia after the low-fat than the high-fat diet .
+CONCLUSIONS	Diets low in total and saturated fat and cholesterol and high in fiber may reduce the risk of CHD by lowering fasting plasma total and LDL-cholesterol concentrations and by reducing the lipemic response to fatty meals .
+
+###23497763
+BACKGROUND	Mirabegron is a 3-adrenoceptor agonist used for the treatment of overactive bladder .
+BACKGROUND	Mirabegron is formulated as an extended-release tablet using oral controlled-absorption system ( OCAS ) technology .
+OBJECTIVE	This study was designed to assess the effects of food on the pharmacokinetic properties of mirabegron OCAS in accordance with regulatory requirements to support dosing recommendations .
+METHODS	In this single-dose , randomized , open-label , 3-period , parallel-dose-group , crossover study , mirabegron OCAS 50 or 100 mg was administered orally to healthy adult subjects in the fasted state or after a high - or low-fat breakfast .
+METHODS	Dose administrations were separated by a washout period of at least 10 days .
+METHODS	Blood samples were drawn up to 96 hours after dosing , and plasma concentrations of mirabegron were analyzed by LC/MS-MS .
+METHODS	PK properties were determined using noncompartmental methods .
+METHODS	Primary end points for the assessment of food effects were Cmax and AUC0 - .
+METHODS	For tolerability assessment , adverse events ( AEs ) were monitored using investigators ' questionnaires and subjects ' spontaneous reports , vital sign measurements , hematology , clinical chemistry , and ECG .
+RESULTS	Thirty-eight subjects ( male , 50 % ; mean age , 32.1 years ; mean weight , 77.3 kg ; race , 76.3 % white ) were enrolled in the 50-mg dose group and 38 subjects ( male , 52.6 % ; mean age , 30.9 years ; mean weight , 74.5 kg ; race , 63.2 % white ) in the 100-mg dose group .
+RESULTS	With either fed condition or dose , the 90 % CIs for the fed/fasted ratios of both Cmax and AUC0 - of mirabegron fell below the predetermined range for bioequivalence ( 80.0 % -125.0 % ) , suggesting that food had no effect on exposure to mirabegron OCAS .
+RESULTS	With the 50-mg dose , mirabegron Cmax was reduced by 45 % with a high-fat breakfast compared with fasted conditions ( geometric mean ratio [ GMR ] , 54.8 % [ 90 % CI , 43.7 % -68.6 % ] ) and AUC0 - , by 17 % ( GMR , 83.2 % [ 90 % CI , 74.2 % -93.4 % ] ) .
+RESULTS	With the 100-mg dose , mirabegron Cmax and AUC0 - were reduced by 39 % ( GMR , 61.3 % [ 90 % CI , 47.8 % -78.7 % ] ) and 18 % ( 82.4 % [ 72.6 % -93.5 % ] ) , respectively , after a high-fat breakfast .
+RESULTS	With the 50-mg dose , mirabegron Cmax was decreased by 75 % ( GMR , 25.0 % [ 90 % CI , 19.9 % -31.3 % ] ) and AUC0 - by 51 % ( 48.7 % [ 43.3 % -54.7 % ] ) after a low-fat breakfast .
+RESULTS	Corresponding reductions with the 100-mg dose were 64 % ( GMR , 36.3 % [ 90 % CI , 28.2 % -46.8 % ] ) for Cmax and 47 % ( GMR , 53.2 % [ 90 % CI , 46.8 % -60.5 % ] ) for AUC0 - .
+RESULTS	The fed/fasted ratios for mirabegron Cmax and AUC0 - were in general independent of dose or sex .
+RESULTS	Food delayed Tmax compared with the fasted state , with similar increases with the high - and low-fat meals ( 0.9 hours with 50 mg and 1.5-2 .0 hours with 100 mg ) .
+RESULTS	Mirabegron was generally well tolerated , with no apparent difference in AE frequency between the fasted and fed states .
+CONCLUSIONS	Mirabegron OCAS tablets exhibited a decrease in mirabegron plasma exposure with food that was independent of dose ( 50 or 100 mg ) or gender but dependent on meal composition .
+CONCLUSIONS	A greater reduction in mirabegron exposure was observed after a low-fat breakfast compared with after a high-fat breakfast .
+CONCLUSIONS	Based on findings from previous studies , the effects of food observed in this study do not warrant dose adjustment in clinical practice .
+CONCLUSIONS	ClinicalTrials.gov identifier : NCT00939757 .
+
+###16458629
+OBJECTIVE	The purpose of this study was to determine predictors of worsening insulin sensitivity in postmenopausal women .
+METHODS	Seventy-one nonobese postmenopausal women were assigned randomly to receive hormone replacement therapy ( conjugated estrogens , 0.625 mg , plus medroxyprogesterone acetate , 2.5 mg ) or placebo daily for 1 year ( 34 women received hormone replacement therapy , and 37 women received placebo ) .
+METHODS	At baseline and 12 months , the women received a computed tomography scan at the L4-L5 vertebral disk space , a dual x-ray absorptiometry scan , a euglycemic hyperinsulinemic clamp to measure insulin sensitivity , and a lipid profile .
+METHODS	Declining insulin sensitivity was defined as the largest quartile change in insulin sensitivity in the women who received the placebo ( -1.42 mg/min/kg lean body mass ) .
+RESULTS	By univariate analysis , we found that significant predictors of worsening insulin sensitivity were the use of hormone replacement therapy , baseline insulin sensitivity , a younger age , and < 10 years since menopause .
+RESULTS	By logistic regression , we determined that hormone replacement therapy use and higher baseline insulin sensitivity were independent predictors of worsening insulin sensitivity .
+CONCLUSIONS	The use of hormone replacement therapy and baseline insulin sensitivity are significant independent predictors of the development of worsening insulin sensitivity in postmenopausal women .
+
+###24107907
+BACKGROUND	Ablative surgery of oropharyngeal tumors frequently leads to defects in the speech organs , resulting in impairment of speech up to the point of unintelligibility .
+BACKGROUND	The aim of the present study was the assessment of selected parameters of speech with and without resection prostheses .
+METHODS	The speech sounds of 22 patients suffering from maxillary and mandibular defects were recorded using a digital audio tape ( DAT ) recorder with and without resection prostheses .
+METHODS	Evaluation of the resonance and the production of the sounds / s / , / sch / , and / ch / was performed by 2 experienced speech therapists .
+METHODS	Additionally , the patients completed a non-standardized questionnaire containing a linguistic self-assessment .
+RESULTS	After prosthesis supply , the number of patients with rhinophonia aperta decreased from 7 to 2 while the number of patients with intelligible speech increased from 2 to 20 .
+RESULTS	Correct production of the sounds / s / , / sch / , and / ch / increased from 2 to 13 patients .
+RESULTS	A significant improvement of the evaluated parameters could be observed only in patients with maxillary defects .
+RESULTS	The linguistic self-assessment showed a higher satisfaction in patients with maxillary defects .
+CONCLUSIONS	In patients with maxillary defects due to ablative tumor surgery , an increase in speech performance and intelligibility is possible by supplying resection prostheses .
+
+###18366490
+BACKGROUND	Misoprostol is the drug of choice for medical abortion worldwide but consensus is yet to be reached regarding its preferred route of administration .
+OBJECTIVE	To compare the outcome of sublingual with vaginal administrations of misoprostol for induction of second trimester abortion .
+METHODS	A randomised comparative trial where 300 women at 13-20 weeks gestation , requiring medical abortion , were randomly assigned to sublingual or vaginal route for misoprostol administration with a dose schedule of 400 microg three-hourly , up to a maximum five doses over 24 h.
+METHODS	The same doses were repeated for another 24 h in non-responders .
+METHODS	Primary outcome measure was complete abortion rate at 24 and 48 h , and the secondary outcome measures were induction-abortion interval , failure rate , side-effects and patients ' preference to the route .
+RESULTS	No statistically significant differences in the complete abortion rates were observed at 24 h ( 64.03 % vs 61.59 % , P = 0.767 ) and at 48 h ( 79.14 % vs 82.01 % , P = 0.651 ) when sublingual and vaginal groups were compared .
+RESULTS	Mean induction-abortion intervals in sublingual and vaginal groups were 14.1 and 14.5 h , respectively ( P = 0.066 ) .
+RESULTS	Other outcome measures were also more or less similar in both groups .
+RESULTS	Differences in the incidence of side-effects were also statistically insignificant when both groups were compared .
+RESULTS	Sublingual administration of the drug was preferred by most of the women as compared to vaginal administration ( P < 0.0001 ) .
+CONCLUSIONS	Both sublingual and vaginal administrations of misoprostol are equally effective in inducing medical abortion during second trimester but sublingual route was preferred by the patients .
+
+###10676676
+OBJECTIVE	To test the hypothesis that a garlic supplement alters plasma lipoproteins , postprandial lipemia , low-density lipoprotein ( LDL ) size and high-density lipoprotein ( HDL ) subclass distribution differently in 50 moderately hypercholesterolemic subjects classified as LDL subclass pattern A or B.
+BACKGROUND	Garlic has been variably reported to reduce or not affect plasma cholesterol values .
+BACKGROUND	Low-density lipoprotein pattern B is a common inherited disorder of lipoprotein metabolism that has been shown to have a significantly greater response to several lipid lowering treatments including low fat diet when compared with LDL pattern A individuals .
+METHODS	A double blind , randomized , placebo controlled trial in an outpatient lipid research clinic was performed and included fifty moderately hypercholesterolemic subjects ( mean LDL cholesterol = 166 + / - 22 mg/dl ) classified as LDL subclass pattern A ( predominantly large LDL , n = 22 ) or B ( predominantly small LDL , n = 28 ) .
+METHODS	Following a two-month stabilization period , subjects were randomly assigned to a placebo or 300 mg three times a day of a standardized garlic tablet for three months .
+RESULTS	For all subjects , LDL pattern A and B subjects combined , garlic treatment for three months resulted in no significant change in total cholesterol , LDL cholesterol , HDL cholesterol , HDL subclass distribution , postprandial triglycerides , apolipoprotein B , lipoprotein ( a ) ( Lp [ a ] ) , LDL peak particle diameter or LDL subclass distribution .
+RESULTS	There was no significant difference in response for the same parameters among subjects classified as LDL pattern A or B with the exception of significantly greater ( p = 0.01 ) reduction in mean peak particle diameter in pattern A subjects treated with either garlic or placebo .
+RESULTS	There was no significant change in LDL subclass distribution .
+CONCLUSIONS	This investigation confirms that garlic therapy has no effect on major plasma lipoproteins and further , that it has no impact on HDL subclasses , Lp ( a ) , apolipoprotein B , postprandial triglycerides or LDL subclass distribution .
+CONCLUSIONS	Garlic may have a greater effect on LDL particle diameter in LDL pattern A compared with pattern B subjects .
+CONCLUSIONS	This difference was not reflected in other plasma lipid measurements .
+
+###16427930
+BACKGROUND	Ileoscopy is the criterion standard for mucosal lesions of terminal ileum but is performed in 5 % of colonoscopy activity , and the need for training is undefined .
+OBJECTIVE	To assess the learning curve and skill-keeping line of ileoscopy .
+METHODS	Prospective randomized study .
+METHODS	Single GI endoscopy unit .
+METHODS	Adult outpatients referred for colonoscopy .
+METHODS	Patient randomization to ileocolonoscopy by trainees and seniors .
+METHODS	Ileoscopy skill was divided into the following : ileocecal valve ( ICV ) intubation ( success rate , time ) and ileal exploration ( length , time ) .
+METHODS	Consecutive blocks of 10 procedures were used to calculate the learning curve and the skill-keeping line .
+METHODS	Variables considered to influence ICV intubation were the following : endoscopist experience , ICV morphology , patient age , gender , body mass index , diverticular disease , and preceding abdominal/pelvic surgery .
+RESULTS	Learning curve showed that competency in ICV intubation ( 80 % success rate ) and ileal exploration ( 16 cm ) was achieved after 50 procedures .
+RESULTS	The skill-keeping line showed that ileoscopy was easy ( 97 % success rate ) , fast ( 1 minute ) , and well accepted up to 45 cm of the ileum .
+RESULTS	Thin-lipped and volcanic ICV are the most difficult and easiest to intubate , respectively .
+RESULTS	Crohn 's disease and adenomas of the proximal edge of ICV were diagnosed in 2.2 % .
+CONCLUSIONS	Training in ileoscopy is recommended to achieve competency , and endoscopists should consider practicing ICV intubation to maintain and increase their skill .
+CONCLUSIONS	Ileoscopy can be difficult when the ICV is thin lipped or single bulged , and easy when it has a volcanic morphology .
+
+###16540546
+OBJECTIVE	To estimate minimally important differences ( MIDs ) in scores for the modified Rodnan Skin Score ( mRSS ) and Health Assessment Questionnaire-Disability Index ( HAQ-DI ) in a clinical trial on diffuse systemic sclerosis ( SSc ) .
+METHODS	134 people participated in a 2-year , double-blind , randomised clinical trial comparing efficacy of low-dose and high-dose D-penicillamine in diffuse SSc .
+METHODS	At 6 , 12 , 18 and 24 months , the investigator was asked to rate the change in the patient 's health since entering the study : markedly worsened , moderately worsened , slightly worsened , unchanged , slightly improved , moderately improved or markedly improved .
+METHODS	Patients who were rated as slightly improved were defined as the minimally changed subgroup and compared with patients rated as moderately or markedly improved .
+RESULTS	The MID estimates for the mRSS improvement ranged from 3.2 to 5.3 ( 0.40-0 .66 effect size ) and for the HAQ-DI from 0.10 to 0.14 ( 0.15-0 .21 effect size ) .
+RESULTS	Patients who were rated to improve more than slightly were found to improve by 6.9-14 .2 ( 0.86-1 .77 effect size ) on the mRSS and 0.21-0 .55 ( 0.32-0 .83 effect size ) on the HAQ-DI score .
+CONCLUSIONS	MID estimates are provided for improvement in the mRSS and HAQ-DI scores , which can help in interpreting clinical trials on patients with SSc and be used for sample size calculation for future clinical trials on diffuse SSc .
+
+###23169695
+OBJECTIVE	Long-term pharmacological glucocorticoid ( GC ) therapy leads to skeletal muscle atrophy and weakness .
+OBJECTIVE	The objective of this study was to investigate whether short-term treatment with GH and testosterone ( T ) can increase lean mass without major impairment of glucose homoeostasis in patients on GC therapy .
+METHODS	This was a prospective , open-label , randomised , crossover study .
+METHODS	Twelve men ( age 746 years ) on chronic GC treatment participated .
+METHODS	The effects of 2 weeks ' treatment with GH , testosterone and the combination of both on lean body mass ( LBM ) , appendicular skeletal muscle mass ( ASMM ) , extracellular water ( ECW ) , body cell mass ( BCM ) and plasma glucose concentrations were investigated .
+RESULTS	LBM increased significantly after GH ( 1.71.4 kg ; P = 0.007 ) and GH + testosterone ( 2.41.1 kg ; P = 0.003 ) , but not testosterone alone .
+RESULTS	ASMM increased after all three treatment periods ; by 1.00.8 kg after GH ( P = 0.005 ) , 1.70.4 kg after GH + testosterone ( P = 0.002 ) and 0.81.0 kg after testosterone ( P = 0.018 ) .
+RESULTS	The increase in ASMM was larger with combined treatment than either GH or testosterone alone ( P < 0.05 ) .
+RESULTS	ECW increased significantly after GH + testosterone by 1.52.6 l ( P = 0.038 ) but not after GH or testosterone alone .
+RESULTS	BCM increased slightly after single and combined treatments , but the changes were not significant .
+RESULTS	Fasting glucose increased significantly after GH ( 0.40.4 mmol/l , P = 0.006 ) while both fasting ( 0.20.3 mmol/l , P = 0.045 ) and post glucose-load ( 1.82.3 mmol/l , P = 0.023 ) plasma glucose concentrations increased after GH + testosterone .
+CONCLUSIONS	GH and testosterone induce favourable and additive body compositional changes in men on chronic , low-dose GC treatment .
+CONCLUSIONS	In the doses used , combination therapy increases fasting and postprandial glucose concentration .
+
+###24566233
+BACKGROUND	Utilization rates ( URs ) for implantable cardioverter-defibrillators ( ICDs ) for primary prevention of sudden cardiac death ( PPSCD ) are lacking in the community .
+OBJECTIVE	The purpose of this study was to establish the ICD UR in central Indiana .
+METHODS	A query run on 2 hospitals in a health information exchange database in Indianapolis identified patients between 2011 and 2012 with left ventricular ejection fraction ( EF ) 0.35 .
+METHODS	ICD eligibility and utilization were determined from chart review .
+RESULTS	We identified 1863 patients with at least 1 low EF study .
+RESULTS	Two cohorts were analyzed : 1672 patients without and 191 patients with International Classification of Diseases , Ninth Revision , Clinical Modification procedure code 37.94 for ICD placement .
+RESULTS	We manually reviewed a stratified ( by hospital ) random sample of 300 patients from the no-ICD procedure code cohort and found that 48 ( 16 % ) had no ICD but had class I indications for ICD .
+RESULTS	Eight of 300 ( 2.7 % ) actually had ICD implantation for PPSCD .
+RESULTS	Review of all 191 patients in the ICD procedure code cohort identified 70 with ICD implantation for PPSCD .
+RESULTS	The ICD UR ( ratio between patients with ICD for PPSCD and all with indication ) was 38 % overall ( 95 % confidence interval [ CI ] 28 % -49 % ) .
+RESULTS	URs were 48 % for males ( 95 % CI 34 % -61 % ) , 21 % for females ( 95 % CI 16 % -26 % , P = .0002 vs males ) , 40 % for whites ( 95 % CI 27 % -53 % ) , and 37 % for blacks ( 95 % CI 28 % -46 % , P = .66 vs whites ) .
+CONCLUSIONS	ICD UR is 38 % among patients meeting class I indications , suggesting further opportunities for improving guideline compliance .
+CONCLUSIONS	This study also illustrates limitations in calculating ICD UR using large electronic repositories without hands-on chart review .
+
+###22005747
+OBJECTIVE	The study 's purpose was to analyze the effects of exercise training on exercise tolerance and left ventricular systolic function and structure in heart failure patients with preserved , mild , and moderate to severe reduction of left ventricular ejection fraction ( LVEF ) .
+METHODS	Ninety-eight patients with moderate to severe ( n = 34 ) , mild ( n = 33 ) , and preserved ( n = 31 ) LVEF were randomly assigned to exercise training plus usual care ( n = 65 ) or usual care alone ( n = 33 ) in a randomization ratio of 2:1 .
+METHODS	Left ventricular function , left ventricular dimensions , and exercise tolerance were assessed before and after each intervention .
+RESULTS	Exercise tolerance and LVEF increased with exercise training in all patient groups , whereas they remained unchanged after usual care alone .
+RESULTS	Exercise training increased the mean ratio of early to late mitral inflow velocities ( E/A ratio ) and decreased deceleration time ( DT ) of early filling in patients with mild and preserved LVEF .
+RESULTS	In patients with moderate to severe systolic dysfunction and advanced diastolic dysfunction ( DT < 160 ms ) , exercise training decreased E/A ratio and increased DT , both of which were unchanged after usual care alone .
+RESULTS	In the remaining patients ( DT > 160 ms ) , exercise training also improved mitral inflow patterns .
+RESULTS	Exercise training decreased left ventricular dimensions in patients with mild and moderate to severe reduction of LVEF but not in patients with preserved LVEF .
+CONCLUSIONS	These results indicate that exercise training can improve the course of heart failure independent of the degree of baseline left ventricular dysfunction .
+
+###22367233
+OBJECTIVE	To investigate the feasibility of implementing a Sleep Education Program ( SEP ) for improving sleep in adult family home ( AFH ) residents with dementia , and the relative efficacy of SEP compared with usual care control in a pilot randomized controlled trial .
+METHODS	Thirty-seven AFH staff-caregivers and 47 residents with comorbid dementia and sleep disturbances .
+METHODS	SEP consisted of four training sessions with staff-caregivers to develop and implement individualized resident behavioral sleep plans .
+METHODS	Treatment fidelity to the SEP was assessed following the National Institutes of Health ( NIH ) Behavior Change Consortium model utilizing trainer observations and staff-caregiver reports .
+METHODS	Resident sleep was assessed by wrist actigraphy at baseline , 1-month posttreatment , and 6-month follow-up .
+METHODS	Caregiver reports of resident daytime sleepiness , depression , and disruptive behaviors were also collected .
+RESULTS	Each key area of treatment fidelity ( SEP delivery , receipt , enactment ) was identified , measured , and yielded significant outcomes .
+RESULTS	Staff-caregivers learned how to identify sleep scheduling , daily activity , and environmental factors that could contribute to nocturnal disturbances and developed and implemented strategies for modifying these factors .
+RESULTS	SEP decreased the frequency and disturbance level of target resident nocturnal behaviors and improved actigraphically measured sleep percent and total sleep time over the 6-month follow-up period compared with the control condition .
+CONCLUSIONS	Results suggest behavioral interventions to improve sleep are feasible to implement in adult family homes and merit further investigation as a promising intervention for use with AFH residents with dementia .
+
+###16632233
+OBJECTIVE	To compare the effects of prandial insulin therapy focusing on postprandial glucose control vs. basal insulin therapy focusing on fasting glucose control in patients with type 2 diabetes .
+METHODS	This was an open-label , randomized , parallel , three-arm multicenter trial in patients with type 2 diabetes starting insulin treatment .
+METHODS	Patients ( n = 159 ) were randomly assigned to 24-week treatment with 3x daily insulin lispro , 3x daily lispro mid mixture ( MidMix ; 50 % lispro , 50 % protaminated lispro ) , or 1x daily insulin glargine ; oral antihyperglycemic agents were discontinued .
+METHODS	Primary end point was the postprandial glucose excursion 2 h after breakfast at the end of study .
+METHODS	Secondary outcomes included HbA1c , self-monitored blood glucose profiles , hypoglycemic episodes , body weight , and patient satisfaction .
+RESULTS	At the end of study , glucose excursions 2 h after breakfast were significantly lower with lispro and MidMix than with glargine ( P < .001 for each vs. glargine ) : lispro , -0.6 + / -2.0 mmol/l ; MidMix , +0.8 + / -2.4 mmol/l ; glargine , +2.5 + / -2.4 mmol/l .
+RESULTS	Fasting glucose decreases were significantly greater with glargine ( -2.6 + / -2.4 mmol/l ) than with lispro or MidMix ( -0.9 + / -2.2 mmol/l ; +0.9 + / -1.8 mmol/l ) .
+RESULTS	Nevertheless , HbA1c decreased by 1.1 % ( lispro ) and 1.2 % ( MidMix ) , vs. 0.3 % with glargine .
+RESULTS	Hypoglycemic episodes were rare with 1-1 .5 self-reported episodes per 100 patient-days .
+CONCLUSIONS	In patients with type 2 diabetes starting insulin , 3x daily prandial treatment with a rapid-acting analog focusing on postprandial glucose values enabled better control of postprandial and circadian blood glucose profiles than once-daily glargine , in spite suboptimal fasting glucose levels , which targets fasting glucose values .
+CONCLUSIONS	These results support studies suggesting that control of postprandial hyperglycemia plays a key role in achieving HbA1c targets .
+
+###22891807
+BACKGROUND	Female sex workers who inject drugs ( FSW-IDUs ) are at risk of acquiring HIV , sexually transmitted infections ( STI ) and blood-borne infections through unprotected sex and sharing injection equipment .
+BACKGROUND	We conducted a 22 factorial randomized controlled trial to evaluate combination interventions to simultaneously reduce sexual and injection risks among FSW-IDUs in Tijuana and Ciudad Juarez , Mexico .
+METHODS	FSW-IDUs 18 years reporting sharing injection equipment and unprotected sex with clients within the last month were randomized to one of four conditions based on an a priori randomization schedule , blinding interviewer/counselors to assignment .
+METHODS	Due to the extreme vulnerability of this population , we did not include a control group that would deny some women access to preventive information .
+METHODS	All women received similar information regardless of group allocation ; the difference was in the way the information was delivered and the extent to which women had an interactive role .
+METHODS	Each condition was a single 60-minute session , including either an interactive or didactic version of an injection risk intervention and sexual risk intervention .
+METHODS	Women underwent interviewer-administered surveys and testing for HIV , syphilis , gonorrhea , Chlamydia , and Trichomonas at baseline and quarterly for 12 months .
+METHODS	Combined HIV/STI incidence will be the primary outcome .
+METHODS	Secondary outcomes are proportionate reductions in sharing of injection equipment and unprotected sex with clients .
+CONCLUSIONS	Of 1,132 women , 548 ( 48.4 % ) were excluded ( 88.9 % were ineligible ; 11.1 % refused to participate or did not return ) ; 584 eligible women enrolled ( 284 in Tijuana ; 300 in Ciudad Juarez ) .
+CONCLUSIONS	All 584 participants completed the baseline interview , provided biological samples and were randomized to one of the four groups .
+CONCLUSIONS	During follow-up , 17 participants ( 2.9 % ) were lost to follow-up , of whom 10 ( 58.8 % ) had died , leaving 567 participants for analysis .
+CONCLUSIONS	This study appears to be the first intervention to attempt to simultaneously reduce injection and sexual risk behaviors among FSW-IDUs .
+CONCLUSIONS	The factorial design will permit analysis to determine whether the combination of the two interactive interventions and/or its respective components are effective in reducing injection and/or sexual risks , which will have direct , tangible policy implications for Mexico and potentially other resource-poor countries .
+BACKGROUND	NCT00840658 .
+
+###16728906
+OBJECTIVE	To compare oral risperidone and intramuscular ( IM ) haloperidol , both in combination with IM lorazepam , in the management of acute agitation and psychosis in the medical emergency department .
+METHODS	In this prospective , randomized , placebo-controlled , double-blind study of 30 patients presenting to the emergency department with acute agitation and/or psychosis , three groups of 10 patients received oral and IM medications : 1 ) 2 mg oral risperidone and 2 mg IM lorazepam ; 2 ) 5 mg oral haloperidol and 2 mg IM lorazepam ; 3 ) oral placebo and 2 mg IM lorazepam .
+METHODS	Each treatment group received both an injection and a tablet to reduce treatment group variability .
+METHODS	Patients were evaluated using the Brief Psychiatric Rating Scale ( BPRS ) and the Positive and Negative Syndrome Scale ( PANSS ) before receiving medication and at 30 and 90 minutes after medication was administered .
+METHODS	The intergroup mean percent reductions in rating scale scores were compared using ANOVA , chi-square , and Kruskal-Wallis tests .
+RESULTS	There were no statistically significant differences among the groups at any point .
+RESULTS	The two groups receiving an antipsychotic plus lorazepam showed a trend towards increased symptom reduction compared with the group receiving lorazepam alone , although this trend was not statistically significant .
+CONCLUSIONS	Lorazepam alone was as effective as lorazepam plus haloperidol or lorazepam plus risperidone in this small trial .
+CONCLUSIONS	While not statistically significant , a trend toward better outcomes with combined treatment warrants further study .
+
+###19442372
+OBJECTIVE	To prospectively evaluate the efficacy of routine ultrasound-guided fine-needle aspiration cytology ( FNAC ) of thyroid nodules in an endemic area and to analyze the factors influencing it .
+METHODS	Patients with thyroid nodules were randomly subjected to either conventional palpation-guided fine-needle aspiration cytology ( PFNAC ) or ultrasound-guided fine-needle aspiration cytology ( USFNAC ) .
+METHODS	The results of cytology were compared with the final histopathologic diagnosis in 112 patients who had undergone surgery .
+METHODS	The performance of both methods was individually analyzed in solid nodules , cystic nodules , and solitary and multinodular goitres .
+RESULTS	Overall , USFNAC showed a significantly higher sensitivity ( 83.3 % vs 54.6 % , p < .001 ) , positive predictive value ( 100 % vs 85.7 % , p < .001 ) , and greater diagnostic accuracy ( 96.5 % vs 89.1 % , p = .052 ) compared with PFNAC .
+RESULTS	The sensitivity of USFNAC was significantly higher compared with that of PFNAC in cystic and complex nodules ( 75 % vs 50 % , p < .001 ) but not in solid nodules ( 77.8 % vs 75 % , p > .05 ) .
+RESULTS	USFNAC was more sensitive and more accurate than PFNAC for detection of malignancy in multinodular goitres ( 66.7 % vs 50 % , p < .05 ; 95.6 % vs 86.2 % , p < .05 , respectively ) .
+CONCLUSIONS	The superiority of `` routine '' USFNAC over PFNAC is mainly due to its better performance in cystic nodules and multinodular goitres .
+CONCLUSIONS	Hence , routine USFNAC can be recommended in areas where such lesions constitute the majority of thyroid nodules .
+
+###21908036
+BACKGROUND	Dalcetrapib modulates cholesteryl ester transfer protein ( CETP ) activity to raise high-density lipoprotein cholesterol ( HDL-C ) .
+BACKGROUND	After the failure of torcetrapib it was unknown if HDL produced by interaction with CETP had pro-atherogenic or pro-inflammatory properties .
+BACKGROUND	dal-PLAQUE is the first multicentre study using novel non-invasive multimodality imaging to assess structural and inflammatory indices of atherosclerosis as primary endpoints .
+METHODS	In this phase 2b , double-blind , multicentre trial , patients ( aged 18-75 years ) with , or with high risk of , coronary heart disease were randomly assigned ( 1:1 ) to dalcetrapib 600 mg/day or placebo for 24 months .
+METHODS	Randomisation was done with a computer-generated randomisation code and was stratified by centre .
+METHODS	Patients and investigators were masked to treatment .
+METHODS	Coprimary endpoints were MRI-assessed indices ( total vessel area , wall area , wall thickness , and normalised wall index [ average carotid ] ) after 24 months and ( 18 ) F-fluorodeoxyglucose ( ( 18 ) F-FDG ) PET/CT assessment of arterial inflammation within an index vessel ( right carotid , left carotid , or ascending thoracic aorta ) after 6 months , with no-harm boundaries established before unblinding of the trial .
+METHODS	Analysis was by intention to treat .
+METHODS	This trial is registered at ClinicalTrials.gov , NCT00655473 .
