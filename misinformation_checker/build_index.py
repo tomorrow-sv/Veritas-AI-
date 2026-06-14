@@ -4,7 +4,7 @@ import faiss
 import numpy as np
 from sentence_transformers import SentenceTransformer
 
-SOURCE_FOLDER = "trusted_sources"
+SOURCE_FOLDER = "200k_abstracts"
 
 def load_documents():
     documents = []
