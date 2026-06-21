@@ -49,6 +49,7 @@ def load_documents():
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
 documents = load_documents()
+documents = documents[:25000]
 
 texts = []
 
@@ -57,8 +58,13 @@ for document in documents:
 
 print(f"Loaded {len(documents)} medical abstracts.")
 
-embeddings = model.encode(texts)
-embeddings = np.array(embeddings).astype("float32")
+embeddings = model.encode(
+    texts,
+    batch_size=32,
+    show_progress_bar=True
+)
+
+embeddings = np.array(embeddings).astype("float32") 
 
 dimension = embeddings.shape[1]
 
