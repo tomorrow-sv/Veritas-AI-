@@ -74,8 +74,10 @@ if __name__ == "__main__":
         print("Authors: Not available in dataset")
         print(f"Similarity Score: {round(item['similarity_score'], 3)}")
         print(item["text"][:700] + "...")
+    
+    print("\nDisclaimer:")
+    print("This system is a prototype. Results are based on semantic similarity to retrieved medical abstracts, not a final medical or factual judgment.")
+    print("Retrieved evidence may be related but may not fully support or contradict the claim.")
+    print("The system may reflect dataset limitations, source bias, or missing evidence.")
 
-print("\nDisclaimer:")
-print("This system is a prototype. Results are based on semantic similarity to retrieved medical abstracts, not a final medical or factual judgment.")
-print("Retrieved evidence may be related but may not fully support or contradict the claim.")
-print("The system may reflect dataset limitations, source bias, or missing evidence.")
+
