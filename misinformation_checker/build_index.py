@@ -49,7 +49,7 @@ def load_documents():
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
 documents = load_documents()
-documents = documents[:25000]
+#documents = documents[:25000]
 
 texts = []
 
